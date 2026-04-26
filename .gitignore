@@ -1,0 +1,7 @@
+**/__pycache__/
+.nfs*
+infinigen
+mvsanywhere
+blender
+datagen/nurbs_utils.so
+output
