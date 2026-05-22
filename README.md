@@ -131,4 +131,4 @@ python src/mvsanywhere/train.py \
   --val_interval 5000
 ```
 
-You can download our trained model here: https://huggingface.co/datasets/princeton-vl/SimpleProc/blob/main/checkpoints.zip (3 checkpoints for 3 different runs).
+You can download our trained model here: https://huggingface.co/princeton-vl/mvsanywhere-simpleproc/tree/main (3 checkpoints for 3 different runs).
